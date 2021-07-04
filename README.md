@@ -1,11 +1,16 @@
 # Perceptron-Learning-Algorithm
 
+## Environment
+  - Python 3.7.1
+  - numpy 1.19.2
+  - matplotlib 3.3.2
+
 ## The format of input.txt
-  x1, x2, y
+  x1 x2 y
   
-  x1, x2, y
+  x1 x2 y
   
-  x1, x2, y
+  x1 x2 y
   
   .
   
