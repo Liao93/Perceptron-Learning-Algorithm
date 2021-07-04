@@ -34,4 +34,7 @@
   ![demo2](./img/pla_at2.png)
   ![demo3](./img/pla_at3.png)
   ![demo4](./img/pla_at4.png)
+  
+  - The points with shape of 'o' should be classified to 'yes', otherwise, 'no'
+  - The points with color of blue are predicted to 'yes' by the perceptron, and the red ones are predicted to 'no'.
  
